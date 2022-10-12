@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    margin: 0;
+
+    background-color: #df615d;
+    color:#f9f9f9 ;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hero > h1 {
+    color: white;
+    display: flex;
+    align-items: center
+}
+
+.hero > h1 > img {
+    filter: invert();
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color:#edb7b6;
+}
+
+.logo {
+    text-decoration: none;
+    color: white;
+}
